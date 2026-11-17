@@ -350,7 +350,7 @@ create_sample_figure()
 
 print("\n========== AUDIT COMPLETE ==========")
 
-print("Defet :", len(defect_images))
+print("Defet i:", len(defect_images))
 print("Normal images:", len(normal_images))
 print("Mask files:", len(mask_images))
 print("Matched defect images:", matched_count)
